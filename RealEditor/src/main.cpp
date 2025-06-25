@@ -3,5 +3,5 @@
 #include <iostream>
 
 int main() {
-	std::cout << GetEngineVersion();
+	std::cout << "Engine Version: " << GetEngineVersion();
 }

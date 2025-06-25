@@ -1,5 +1,5 @@
 group "vendors"
-	include "vendor/SDL"
+	include "vendor/SDL/Build-Windows.lua"
 group ""
 
 
